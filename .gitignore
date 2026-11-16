@@ -1,0 +1,19 @@
+# ignore python files 
+*.pyc
+__pycache__/
+cache/
+
+#ignore environment files 
+*.venv/ 
+
+#ignore ipynb files
+*.ipynb_checkpoints
+
+#ignore ruff cache 
+*.ruff_cache
+
+# ignore vs code cache
+*.vscode
+
+# ignore big files 
+*Location_data/
